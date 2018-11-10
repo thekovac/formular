@@ -1,2 +1,0 @@
-# formular
-School project
